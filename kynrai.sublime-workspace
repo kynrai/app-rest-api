@@ -1,0 +1,390 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"handl",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"func",
+				"func	Function"
+			],
+			[
+				"fun",
+				"func	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "kynrai.sublime-project",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api.go",
+			"settings":
+			{
+				"buffer_size": 2709,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "handler/uploader.go",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"impo",
+				"GoSublime: Go to imports section"
+			],
+			[
+				"im",
+				"Snippet: main()"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 804.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Steven/Documents/go/src/github.com/kynrai/app-rest-api",
+		"/C/Users/Steven/Documents/go/src/github.com/kynrai/app-rest-api/auth",
+		"/C/Users/Steven/Documents/go/src/github.com/kynrai/app-rest-api/dao",
+		"/C/Users/Steven/Documents/go/src/github.com/kynrai/app-rest-api/handler"
+	],
+	"file_history":
+	[
+		"/C/dev/git/kynrai-rest-api/dao/datastore/util.go",
+		"/C/Users/Steven/_vimrc",
+		"/C/dev/git/kynrai-rest-api/app.yaml",
+		"/C/dev/git/kynrai-rest-api/README.md",
+		"/C/Users/Steven/.spf13-vim-3/.vimrc",
+		"/C/Users/Steven/curl.cmd",
+		"/C/dev/git/kynrai-rest-api/handler/upload/uploader.go",
+		"/C/dev/vagrant/server/shared/git/kynrai-rest-api/kynrai.sublime-project",
+		"/C/dev/vagrant/server/shared/git/kynrai-rest-api/README.md",
+		"/C/Users/Steven/.ssh/id_rsa.pub",
+		"/C/dev/vagrant/server/shared/git/kynrai-rest-api/app.yaml",
+		"/C/dev/vagrant/server/shared/git/run_app.sh",
+		"/C/dev/vagrant/server/shared/git/kynrai-rest-api/config/routes.json",
+		"/C/dev/vagrant/server/shared/git/kynrai-rest-api/router/routes.go",
+		"/C/Users/Steven/Desktop/cloudera",
+		"/C/dev/vagrant/server/shared/run_wordpress.sh",
+		"/C/dev/vagrant/server/shared/www/html/index.html",
+		"/C/dev/vagrant/server/shared/www/html/scripts/tutorial1.js",
+		"/C/dev/vagrant/server/shared/appengine-try-go/hello/hello.go",
+		"/C/dev/vagrant/server/Vagrantfile",
+		"/C/dev/vagrant/server/bootstrap.sh",
+		"/C/dev/vagrant/server/shared/appengine-php-wordpress-starter-project_build/wordpress/wp-config.php",
+		"/C/dev/vagrant/server/shared/appengine-try-go/app.yaml",
+		"/C/dev/vagrant/server/shared/appengine-try-go/index.yaml",
+		"/C/dev/vagrant/server/shared/appengine-php-wordpress-starter-project_build/wordpress/wp-settings.php",
+		"/C/dev/vagrant/server/shared/www/index.html",
+		"/C/Users/Steven/Downloads/appengine-try-go/appengine-try-go/app.yaml",
+		"/C/Users/Steven/Documents/go/src/hello/hello.go",
+		"/C/Users/Steven/Documents/go/src/stringutil/reverse.go",
+		"/C/Users/Steven/Documents/go/src/beer/beer.go",
+		"/C/Users/Steven/Documents/go/src/stringutil/reverse_test.go",
+		"/C/Users/Steven/My Documents/WindowsPowerShell/Microsoft.PowerShellISE_profile.ps1",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Steven/Documents/go/src/hello/hello.py",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/Steven/Documents/go/src/pi/pi.go",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"r",
+			"Upload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "kynrai.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "handler/uploader.go",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\Steven\\Documents\\go\\src\\beer":
+	{
+		"height": 202.0
+	},
+	"output.9o://C:\\Users\\Steven\\Documents\\go\\src\\github.com\\kynrai\\app-rest-api":
+	{
+		"height": 202.0
+	},
+	"output.9o://C:\\Users\\Steven\\Documents\\go\\src\\hello":
+	{
+		"height": 198.0
+	},
+	"output.9o://C:\\Users\\Steven\\Documents\\go\\src\\stringutil":
+	{
+		"height": 202.0
+	},
+	"output.9o://C:\\dev\\git\\kynrai-rest-api":
+	{
+		"height": 283.0
+	},
+	"output.9o://C:\\dev\\git\\myapp":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kynrai.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Steven\\Documents\\go\\Go.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
